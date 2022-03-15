@@ -9,6 +9,6 @@ This github organization houses multiple repositories aimed to that purpose.
 
 
 ### What is the current state of Geofront? 
-Right now, geofront is in active development, and many features are subject to change.
+Right now, geofront is in pre-alpha state. It is in active development, and many features are subject to change.
 
 
